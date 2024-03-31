@@ -1,0 +1,164 @@
+[
+	{
+		"id": "",
+		"name": "Modulo WIFI ESP32-WROOM (38 Pines)",
+		"description": "El ESP32 es un chip altamente integrado, diseñado para las necesidades de un mundo conectado e internet de las cosas. Integra un potente procesador con Arquitectura de 32 bits y conectividad WiFi y Bluetooth.",
+		"image": "https://www.bigtronica.com/12888-large_default/modulo-wifi-esp32-wroom-38-pines.jpg",
+		"label": "Sistemas de Desarrollo",
+		"stock": 40,
+		"price": "$ 32.000"
+	},
+	{
+		"id": "",
+		"name": "Batería Gel Recargable 12V 100Ah",
+		"description": "Batería Gel libre de mantenimiento con larga vida y buen desempeño en bajas y altas temperaturas. Tiene una baja tasa de auto-descarga es ideal para sistemas de energia solar y proyectos.",
+		"image": "https://www.bigtronica.com/13213-large_default/bateria-gel-recargable-12v-100ah.jpg",
+		"label": "Baterias",
+		"stock": 25,
+		"price": "$ 1.100.000"
+	},
+	{
+		"id": "",
+		"name": "Tercera Mano Flexible (TM-06B)",
+		"description": "Tercera mano de alta calidad con cuatro brazos flexibles con lupa y linterna Led . Esta tercera mano es perfecta para la  inspección electrónica, reparación y trabajos de soldadura.",
+		"image": "https://www.bigtronica.com/13109-large_default/tercera-mano-flexible-tm-06b.jpg",
+		"label": "Herramientas",
+		"stock": 15,
+		"price": "$ 138.000"
+	},
+	{
+		"id": "",
+		"name": "Arduino Nano CH340G",
+		"description": "El Arduino Nano (CH340G) es una pequeña placa basada en el ATmega328P; el mismo microcontrolador del Arduino Uno. Esta tarjeta es compatible con las librerias de Arduino uno Características:Microcontrolador: ATmega328P Descargar Driver: CH340G Voltaje de Alimentación: 7V -12V DC Voltaje de I/O: 5V Pines Digitales I/O: 14 (6 PWM) Entradas Analógicas",
+		"image": "https://www.bigtronica.com/11022-home_default/arduino-nano-ch340g.jpg",
+		"label": "Sistemas de Desarrollo",
+		"stock": 35,
+		"price": "$ 19.200"
+	},
+	{
+		"id": "",
+		"name": "Arduino Uno R3",
+		"description": "El Arduino Uno  es una placa de desarrollo basada en el microcontrolador ATmega328P. Tiene 14 pines de entrada/salida digital, un cristal de 16Mhz, conexión  USB, conector DC de alimentación, conector ICSP y botón de reset.",
+		"image": "https://www.bigtronica.com/11028-large_default/arduino-uno-r3.jpg",
+		"label": "Sistemas de Desarrollo",
+		"stock": 26,
+		"price": "$ 47.000"
+	},
+	{
+		"id": "",
+		"name": "Arduino Leonardo",
+		"description": "El Arduino Leonardo es una placa de desarrollo basada en el microcontrolador ATmega32u4. Tiene 20 pines de entrada/salida digital, un cristal de 16Mhz, conexión micro USB, conector DC de alimentación, conector ICSP y botón de reset.",
+		"image": "https://www.bigtronica.com/11037-large_default/arduino-leonardo.jpg",
+		"label": "Sistemas de Desarrollo",
+		"stock": 30,
+		"price": "$ 50.000"
+	},
+	{
+		"id": "",
+		"name": "Raspberry PI 4B 4GB",
+		"description": "¡Potencia, versatilidad y creatividad se combinan en la Raspberry Pi 4 de 4GB! Esta mini computadora te ofrece un rendimiento excepcional para tus proyectos",
+		"image": "https://www.bigtronica.com/11570-large_default/raspberry-pi-4b-4gb.jpg",
+		"label": "Sistemas de Desarrollo",
+		"stock": 26,
+		"price": "$ 460.000"
+	},
+	{
+		"id": "",
+		"name": "Raspberry Pi Pico YD-RP2040",
+		"description": "Placa de desarrollo de 32 bits diseñada con  el chip RP2040. Está diseñada para ser una plataforma de desarrollo flexible y de alto rendimiento. Con procesador Cortex, RAM, memoria Flash, puerto USB tipo C y un amplio rango de opciones I/O que incluyen SPI, I2C y únicos I/O Programables (GPIO).",
+		"image": "https://www.bigtronica.com/11051-large_default/raspberry-pi-pico-yd-rp2040.jpg",
+		"label": "Sistemas de Desarrollo",
+		"stock": 65,
+		"price": "$ 30.000"
+	},
+	{
+		"id": "",
+		"name": "Suiche SONOFF WIFI 10A",
+		"description": "El sonoff es un dispositivo para el control de la luz o electrodoméstico que no supere los 10A de corriente y su funcionamiento es por medio de comunicación WI-FI que puede ser utilizado en tu casa u oficina, este módulo tiene varias funciones como encendido, apagado o temporizado y se complementa con una aplicación en Android y IOS para su control a través del celular.",
+		"image": "https://www.bigtronica.com/6474-large_default/suiche-sonoff-wifi-10a.jpg",
+		"label": "Domotica",
+		"stock": 80,
+		"price": "$ 51.000"
+	},
+	{
+		"id": "",
+		"name": "Suiche Inteligente SONOFF T0US2C De Pared Con 2 Salidas",
+		"description": "El suiche inteligente SONOFF hace las funciones de un suiche de pared tradicional pero integra funcionalidades IOT gracias a su comunicación WI-FI. ideal para ser usado en proyectos de domótica para casas u oficinas. cada interruptor puede ser activado o programado individualmente desde la aplicación para Android o IOS y el estado se vera reflejado en todo momento en los indicadores LED del suiche así como en la App. adicionalmente puede ser activado desde los asistentes de voz mas populares como Amazon Alexa o Google Assistant.",
+		"image": "https://www.bigtronica.com/7279-large_default/suiche-inteligente-sonoff-t0us2c-de-pared-con-2-salidas.jpg",
+		"label": "Domotica",
+		"stock": 20,
+		"price": "$ 130.500"
+	},
+	{
+		"id": "",
+		"name": "Impresora 3D Creality Ender 3 V2 Neo",
+		"description": "La impresora Ender 3 V2 Neo representa una evolución del modelo Ender 3 V2, incorporando notables mejoras como una cama de acero con autonivelado y un extrusor de metal. ",
+		"image": "https://www.bigtronica.com/12688-large_default/impresora-3d-creality-ender-3-v2-neo.jpg",
+		"label": "Impresoras 3D",
+		"stock": 55,
+		"price": "$ 2.100.000"
+	},
+	{
+		"id": "",
+		"name": "Impresora 3D Creality Ender 3",
+		"description": "La impresora Creality Ender 3 es un modelo de open source accesible para quien desee iniciar en el mundo de la impresión 3D. ",
+		"image": "https://www.bigtronica.com/10399-large_default/impresora-3d-creality-ender-3.jpg",
+		"label": "Impresoras 3D",
+		"stock": 69,
+		"price": "$ 1.500.000"
+	},
+	{
+		"id": "",
+		"name": "Impresora 3D Creality Ender 3 Max Neo",
+		"description": "¡Imprime con calidad y comodidad en grande! La Impresora 3D Creality Ender 3 Max Neo ofrece impresiones de gran tamaño de alta calidad, con características como nivelación automática, montaje rápido y eje Z dual.",
+		"image": "https://www.bigtronica.com/12689-large_default/impresora-3d-creality-ender-3-max-neo.jpg",
+		"label": "Impresoras 3D",
+		"stock": 150,
+		"price": "$ 2.700.000"
+	},
+	{
+		"id": "",
+		"name": "Panel Solar Ensamble 6V 500mA",
+		"description": "¿Te gustaría probar la energía gratuita proporcionada por el sol? Este panel didáctico es capaz de generar una potencia máxima de 3W con un voltaje de salida de 6V ideal para tus pequeños proyectos de energía solar. ",
+		"image": "https://www.bigtronica.com/11137-large_default/panel-solar-ensamble-6v-500ma.jpg",
+		"label": "Energia Solar",
+		"stock": 40,
+		"price": "$ 38.000"
+	},
+	{
+		"id": "",
+		"name": "Panel Solar con Cable Pulpo 6V 1A",
+		"description": "Panel solar de 6W con cable pulpo DC para dispositivos USB. Ideal para dispositivos USB de baja demanda con carga lenta. ",
+		"image": "https://www.bigtronica.com/13132-large_default/panel-solar-con-cable-pulpo-6v-1a.jpg",
+		"label": "Energia Solar",
+		"stock": 25,
+		"price": "$ 53.000"
+	},
+	{
+		"id": "",
+		"name": "Tablero Control De Medición De Distancia Ultrasónico Hc Sr04",
+		"description": "Placa de prueba de módulo de medición de distancia ultrasónica para proporcionar la placa de prueba del HC-SR04",
+		"image": "https://www.bigtronica.com/6380-large_default/tablero-control-de-medicion-de-distancia-ultrasonico-hc-sr04.jpg",
+		"label": "Sensores",
+		"stock": 25,
+		"price": "$ 28.000"
+	},
+	{
+		"id": "",
+		"name": "Soporte para Sensor PIR",
+		"description": "Soporte acrílico para el sensor PIR. Este accesorio es ideal para montajes de sistemas de alarma y aviso. Este producto no incluye el sensor PIR",
+		"image": "https://www.bigtronica.com/10343-large_default/soporte-para-sensor-pir.jpg",
+		"label": "Sensores",
+		"stock": 12,
+		"price": "$ 4.200"
+	},
+	{
+		"id": "",
+		"name": "Sensor Ultrasonido HC-SR05",
+		"description": "Sensor ultrasónico que proporciona la medición de la distancia independientemente del color y la iluminación de los obstáculos. Este modelo en particular es una actualización de la HC-SRO4 de menor precisión. Este tiene 5 pines y se puede utilizar en gatillo de 1 pino / eco o 2 pines.",
+		"image": "https://www.bigtronica.com/3940-large_default/sensor-ultrasonido-hc-sr05.jpg",
+		"label": "Sensores",
+		"stock": 35,
+		"price": "$ 10.500"
+	}
+]
